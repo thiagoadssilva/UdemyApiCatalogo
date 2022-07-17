@@ -120,7 +120,7 @@ namespace ApiCatalogo.Migrations
                 type: "decimal(65,30)",
                 nullable: false,
                 oldClrType: typeof(decimal),
-                oldType: "decimal(10,2)");
+                oldType: "decima(10,2)");
 
             migrationBuilder.AlterColumn<string>(
                 name: "Nome",

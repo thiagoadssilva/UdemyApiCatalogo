@@ -912,11 +912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\UdemyApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
       "projectName": "ApiCatalogo",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\UdemyApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\ApiCatalogo\\ApiCatalogo\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\UdemyApiCatalogo\\ApiCatalogo\\ApiCatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
