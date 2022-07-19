@@ -1,4 +1,4 @@
-using ApiCatalogo.Context;
+using APICatalogo.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +9,6 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 
 /*Registrando o serviço para a conexão com o banco de dados*/
 string mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
